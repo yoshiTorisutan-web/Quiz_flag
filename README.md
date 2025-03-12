@@ -3,11 +3,6 @@
   <img src="earth.png" alt="Logo" width="80" height="80">
 </div>
 
-
-# Bienvenue dans le **Quiz des Drapeaux** ! 
-
-Testez vos connaissances sur les pays du monde et leurs drapeaux à travers un jeu interactif et amusant.
-
 ## 🏆 Présentation
 
 Le **Quiz des Drapeaux** est un jeu où vous devez deviner le nom du pays en fonction de l'image de son drapeau. Chaque question vous propose plusieurs choix, et vous devez sélectionner la bonne réponse pour marquer des points. Le jeu vous permet de tester vos connaissances géographiques et de vous amuser tout en apprenant !
