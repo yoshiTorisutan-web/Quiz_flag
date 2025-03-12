@@ -36,8 +36,8 @@ Le **Quiz des Drapeaux** est un jeu où vous devez deviner le nom du pays en fon
 ## 📌 Installation & Déploiement
 
 ### Cloner le projet
-git clone https://github.com/votre-repo/quiz-drapeaux.git
-cd quiz-drapeaux
+- git clone https://github.com/votre-repo/quiz-drapeaux.git
+- cd quiz-drapeaux
 
 ## 🤝 Contribuer
 
