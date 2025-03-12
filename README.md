@@ -3,9 +3,7 @@
   <img src="earth.png" alt="Logo" width="80" height="80">
 </div>
 
-# 
-
-Bienvenue dans le **Quiz des Drapeaux** ! Testez vos connaissances sur les pays du monde et leurs drapeaux à travers un jeu interactif et amusant.
+# Bienvenue dans le **Quiz des Drapeaux** ! Testez vos connaissances sur les pays du monde et leurs drapeaux à travers un jeu interactif et amusant.
 
 ## 🏆 Présentation
 
