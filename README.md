@@ -1,6 +1,6 @@
 <h1 align="center">Quiz des Drapeaux</h1>
 <div align="center">
-  <img src="Logo_Quiz.png" alt="Logo" width="80" height="80">
+  <img src="earth.png" alt="Logo" width="80" height="80">
 </div>
 
 # 
