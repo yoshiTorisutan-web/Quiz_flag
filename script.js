@@ -1,4 +1,4 @@
-const apiUrl = "https://restcountries.com/v3.1/all";
+const apiUrl = "https://restcountries.com/v3.1/all?fields=name,flags";
 let countries = [];
 let currentQuestion = 0;
 let score = 0;
